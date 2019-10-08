@@ -1,10 +1,10 @@
 {
   "name": "pomelo-protobuf-plugin",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "author": "py8765 pengyang633@126.com/@py8765",
   "dependencies": {
-    "pomelo-logger": "0.1.2",
-    "protobufjs": "2.0.4"
+    "pomelo-logger": "git+https://github.com/irukandji/pomelo-logger.git",
+    "protobufjs": "6.8.0"
   }
 }
